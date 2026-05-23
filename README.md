@@ -9,3 +9,5 @@ analyze youtube views likes
 <hr/>
 <h2>views and likes</h2>
 <img src="https://ibb.co/JRqC6vPq"/>
+<hr/>
+<img src="https://i.ibb.co/5X3dPVCF/2.jpg"/>
