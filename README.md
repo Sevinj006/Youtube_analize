@@ -11,3 +11,11 @@ analyze youtube views likes
 <img src="https://ibb.co/JRqC6vPq"/>
 <hr/>
 <img src="https://i.ibb.co/5X3dPVCF/2.jpg"/>
+
+<hr/>
+
+<p>This project focuses on YouTube analytics using Python. Data processing and analysis were performed with Pandas, while Seaborn was used for data visualization. The project analyzes channel names, total views, and overall statistics to gain useful insights.”
+
+Qısa GitHub description variantı:
+
+“Analyzed YouTube channel data using Pandas and visualized total views and statistics with Seaborn</p>
